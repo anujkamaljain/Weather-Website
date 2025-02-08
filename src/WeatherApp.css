@@ -1,0 +1,14 @@
+.weatherapp{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/sky-background-video-conferencing_23-2148623068.jpg");
+    background-size: cover;
+    background-position: top;
+    background-repeat: repeat;
+    height: 100svh;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
