@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -16,7 +16,8 @@
     "@mui/icons-material": "^6.4.3",
     "@mui/material": "^6.4.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "weather": "file:"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
